@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apigee-demo-221021",
+  "private_key_id": "16cc32f043fc63e5f63003dac960ebc2721e5220",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr+8dfjHwOl9VU\nRfz+JAccL4V4u3MzdZ06MI8JII920ZK/DjFBCNrHQZExjAn+6RBhs5M8YN2VOZZb\nFQft854NqTufd0OuGj/NZeQDvGlUZFky9/YnLcNh8zJ6g/ukx1GwekE7icCI9Yct\nngyJia/gfRD/J8iinjOn9yOLBxPvf0y6VuZe0X+bNDTuEqXNcJ/4AAl33uF9jSdc\nPjEAITZwMkhBD7aE6wCQpza+g8qhox4WAONJqhKlmyzX4pLYERZIoyCwSzjUqnFh\nwxmNbwCgPgdWrkxXwKaEklc0nJ68zZ4MdGWclhoolefYd9SQnzHEpsRANjHcvRuX\nHafID6ljAgMBAAECggEAR1KGh6MAjaK85xKRTSnOwwsYHI4MQ+J6PjgGEYBtzpYx\n98ageXp9FFYmKviK6qpnz0TEAi2fpvN3XbV2kOFPghXVMpgouqqLHBituzjnK4bk\nEQWREQVi+ht7qyBR+y9nurqwk8rYTFQaZ7ocM+ukQwJKyq4KgBoAjR8qH81jIJYp\nxzt/aaYZDXUyp0Ec/b7LuctjMhlz49WmigeheoGYmXfLBtGIAhlN6dL5/z9t5Tk+\nJv/1fB2f90+FTfAts/rF31kcJ1hTgPOcLeFmdycx+y8Zcr5UFUVB7J26Dx0qg4Iv\n4PCbkUjbRScpOoWGpnLTrVn2+MTs86ebekDH4qxdIQKBgQDTFovaweMmGXy64EKg\nHH5uve7BsI9icrZELhOfA4YpsbO8GP3zDQ7ha+9cHZEXX/52JkB2D9KYLo8Dwozr\nVAx2ai0NG2wS0J5F2z1IL4MS1fVWAdYumhx97zNkwU+ld2AW0H45W7NajnC5kciu\nrXWTNCQglAZtV6v5E7sIlyGwoQKBgQDQk01eQXrXCAI8akOrQjmqYDgMyUJH/TMz\nmsSngiLqithYd7Gy2y/rZwo1NgzVHMGaNxURXUkArN1BpiaAHkzcnytE5DqMmj7E\nzyAQRcdVfy8P0SbQuA6hplfHA+SR6tKUH4tCksNPsnYp3b8/nvG0rdrB+gmOefAF\nNOga2NHngwKBgQDNU20OiPJuqPQOwv2LyKujBNUtSpTuai6o+zjSwBbMj7IJETZU\nKSuEUf0uWQQ8/H8EZgjlzlZG+WLbgW6ZqdPFi1nvGfFyC8MoqC1f/fc9ZymRU5AH\nHJkCVp5jLzZN+WRaTMu691vqhgtYNlpCry9i1KEfn1zxFwqM6YhQvtFigQKBgDZR\n5phhnUhbQZnSYwU7HiGNJYvO7oApJSiPah/l+In01xtTMOhPxU8dar8o8HagIpuz\nNL1s+hI+8vCiAOzk90eN/IrYlZcApNBE0Sjrw1o04WDRK7a3+LeIxtuB3AlUirsg\n6/fOmScsZzHIGoLLNk/D53EVWV/NygDRIpG7Xg9ZAoGAFRh86tBEyy8vz4xqOwde\nvHeOeAOdPGtkkGtmtDllXh/QrUpGsLXttRPVHItnbceBD/twPWHgbZ5YKhfUz4gy\nX8EEaqlb/vilD+cxcb2K0jqiinhAu0XZl7S5SBrz3t/gpnk2ukE8cgeZnt3424x4\nxO8emmwwWWtvyp9RdzWCBw4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-api-test@apigee-demo-221021.iam.gserviceaccount.com",
+  "client_id": "101358805428835822359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-api-test%40apigee-demo-221021.iam.gserviceaccount.com"
+}
