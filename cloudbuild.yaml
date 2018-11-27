@@ -29,5 +29,5 @@ steps:
     - functions
     - deploy
     - speechAPIGateway
-    - --stage-bucket=apigeestagebucket
+    - --stage-bucket=apigeestagingbucket
     - --trigger-bucket=apigeeaudiobucket
